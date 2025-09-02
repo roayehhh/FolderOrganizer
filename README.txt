@@ -1,4 +1,4 @@
-# FileSorter
+# FolderOrganizer
 
 Hi!  
 This project sorts files in a folder based on their extension.
